@@ -15,13 +15,13 @@ python2 main.py
 setting psiphon dengan local host 127.0.0.1:8080
 dan centang aplikasi qpython,termux,psihon
 
-Sumber dan Kontak 
 
+<!---[Sumber Coding Source Create Bye]-->
 Github : https://github.com/kumpulanremaja/
 Fanspage :  https://facebook.com/4kumpulanremaja
 web : http://kumpulanremaja.com
 Source Bye kumpulan remaja
-
+<!---[Sumber Coding Source Create Bye]-->
 
 enjoy bye internet Gratis
 
