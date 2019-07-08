@@ -26,3 +26,5 @@ Source Bye kumpulan remaja
 enjoy bye internet Gratis
 
 
+untuk selengkpanya toturial cara internet gratis kartu telkomsel dengan Termux bisa baca di https://www.kumpulanremaja.com/2019/04/iinternet-gratis-kartu-telkomsel-dengan-termux.html
+
